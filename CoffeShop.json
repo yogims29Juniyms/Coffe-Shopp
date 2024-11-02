@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Latte Krimi Kopi",
+        "description": "Espresso yang kaya dan beraroma dalam susu kukus, dihiasi busa lembut di atasnya.",
+        "image": "https://i.pinimg.com/474x/3e/f2/be/3ef2bea3b02b9aadf10776148ae1ca67.jpg",
+        "price": 50000
+    },
+    {
+        "id": 2,
+        "name": "Latte Klasik Berbusa",
+        "description": "Kopi espresso dengan susu kukus, ditambah lapisan busa yang tebal.",
+        "image": "https://i.pinimg.com/474x/1b/78/38/1b78386b35f401227a892921e4483759.jpg",
+        "price": 55000
+    },
+    {
+        "id": 3,
+        "name": "Mocha Manis",
+        "description": "Espresso dengan saus mocha pahit-manis dan susu dan roti kukus, dihiasi dengan krim manis di atasnya.",
+        "image": "https://i.pinimg.com/474x/40/11/07/40110789102a3365a1be61326db5d41f.jpg",
+        "price": 60000
+    },
+    {
+        "id": 4,
+        "name": "Es Lemon Fresh",
+        "description": "Lemon dicampur dengan sirup vanila, soda, dan saus es dingin, sempurna untuk hari yang panas.",
+        "image": "https://i.pinimg.com/474x/fb/3f/9e/fb3f9ed9d67680398e38f27a4346c24f.jpg",
+        "price": 67500
+    },
+    {
+        "id": 5,
+        "name": "Cold Brew Krim",
+        "description": "Cold brew yang diseduh lambat dengan sentuhan krim vanila manis yang lembut, memberikan rasa halus di setiap tegukan.",
+        "image": "https://i.pinimg.com/474x/01/6a/33/016a3372283916a4e84a41a7dd80f1f5.jpg",
+        "price": 64000
+    },
+    {
+        "id": 6,
+        "name": "Cold Brew Lava",
+        "description": "Kopi diseduh lambat dengan teknik spesial, menghasilkan cita rasa yang halus dan menyegarkan.",
+        "image": "https://i.pinimg.com/474x/4f/68/00/4f680017dfb64386e6e2b65636b02363.jpg",
+        "price": 59000
+    },
+    {
+        "id": 7,
+        "name": "Espresso",
+        "description": "Kopi hitam pahit untuk kesegaran ekstra.",
+        "image": "https://i.pinimg.com/474x/4e/60/23/4e602362e96f7e6f3e7de1fd5171174f.jpg",
+        "price": 74500
+    },
+    {
+        "id": 8,
+        "name": "Frappuccino Raspberry Currant",
+        "description": "Campuran kopi segar dengan susu, menghadirkan aroma segar yang kaya.",
+        "image": "https://i.pinimg.com/474x/d5/b9/ca/d5b9ca6a4775aeef8651109384bc2968.jpg",
+        "price": 72000
+    },
+    {
+        "id": 9,
+        "name": "Frappuccino Kopi Ringan",
+        "description": "Kopi Starbucks yang diblender dengan susu rendah lemak dan es, untuk rasa kopi yang ringan.",
+        "image": "https://i.pinimg.com/474x/d3/44/f4/d344f404ac145fb9d788cb6f8c0f8592.jpg",
+        "price": 60000
+    },
+    {
+        "id": 10,
+        "name": "Frappuccino Mocha",
+        "description": "Saus mocha, kopi roast, susu, dan es, memberikan rasa mocha yang memikat.",
+        "image": "https://i.pinimg.com/474x/0f/0a/4f/0f0a4f02e88cb8a1a2397eff8ddb9b3e.jpg",
+        "price": 67500
+    }
+]
